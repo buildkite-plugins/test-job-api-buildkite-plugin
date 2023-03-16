@@ -17,14 +17,6 @@ func main() {
 
 	switch os.Args[1] {
 	case "environment":
-		env, err := c.EnvGet(context.Background())
-		if err != nil {
-			fatal(fmt.Errorf("getting environment: %w", err))
-		}
-
-		fmt.Println("Environment from jobapi:")
-		pretty.Println(env)
-
 		fmt.Println("Adding environment variables MOUNTAIN=cotopaxi and OCEAN=pacific")
 		c.EnvUpdate(context.Background(), &jobapi.EnvUpdateRequest{
 			Env: map[string]*string{
@@ -33,37 +25,13 @@ func main() {
 			},
 		})
 
-		env, err = c.EnvGet(context.Background())
-		if err != nil {
-			fatal(fmt.Errorf("getting environment the second time: %w", err))
-		}
-
-		fmt.Println("Environment after update:")
-		pretty.Println(env)
-
 	case "post-command":
-		env, err := c.EnvGet(context.Background())
-		if err != nil {
-			fatal(fmt.Errorf("getting environment: %w", err))
-		}
-
-		fmt.Println("Environment in pre-command phase:")
-		pretty.Println(env)
-
 		fmt.Println("Removing environment variable OCEAN")
 		deleted, err := c.EnvDelete(context.Background(), []string{"OCEAN"})
 		if err != nil {
 			fatal(fmt.Errorf("deleting environment variable: %w", err))
 		}
-		pretty.Printf("Deleted: %v", deleted)
-
-		env, err = c.EnvGet(context.Background())
-		if err != nil {
-			fatal(fmt.Errorf("getting environment the second time: %w", err))
-		}
-
-		fmt.Println("Environment after delete:")
-		pretty.Println(env)
+		pretty.Printf("Deleted: %v\n", deleted)
 
 	default:
 		panic("unknown command")

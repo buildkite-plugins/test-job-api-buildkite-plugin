@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-./job-api-test "post-command"
+env
+
+"$(go env GOPATH)/bin/job-api-test" "post-command"

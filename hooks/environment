@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-./job-api-test "environment"
+"$(go env GOPATH)/bin/job-api-test" "environment"
