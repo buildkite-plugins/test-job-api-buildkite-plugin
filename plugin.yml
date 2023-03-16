@@ -1,0 +1,6 @@
+name: Test Job API
+description: A buildkite plugin to illustrate how to use the agent's current-job api. Is implemented in golang, rather than bash.
+author: https://github.com/moskyb
+requirements: []
+configuration:
+  properties: {}

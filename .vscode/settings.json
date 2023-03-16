@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/buildkite/pipeline-schema/main/schema.json": "file:///Users/ben/buildkite/job-api-test-buildkite-plugin/plugin.yml"
+  }
+}
