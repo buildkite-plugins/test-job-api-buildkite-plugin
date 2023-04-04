@@ -21,7 +21,7 @@ Add the following to your `pipeline.yml`:
 steps:
   - command: ls # or anything, really
     plugins:
-      - moskyb/job-api-test#main:
+      - test-job-api#main:
 ```
 
 It will add two environment variables to the job during the `environment` phase, `OCEAN` and `MOUNTAIN`. It will then remove the `OCEAN `environment variable during the `post-command` phase.
