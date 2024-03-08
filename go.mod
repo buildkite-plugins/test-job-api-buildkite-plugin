@@ -6,7 +6,7 @@ toolchain go1.22.1
 
 require (
 	github.com/buildkite/agent/v3 v3.65.0
-	github.com/kr/pretty v0.2.1
+	github.com/kr/pretty v0.3.1
 )
 
 require (
@@ -80,6 +80,7 @@ require (
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/puzpuzpuz/xsync/v2 v2.5.1 // indirect
+	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/secure-systems-lab/go-securesystemslib v0.7.0 // indirect
 	github.com/segmentio/asm v1.2.0 // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
