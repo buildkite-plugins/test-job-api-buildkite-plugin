@@ -1,18 +1,18 @@
 module github.com/moskyb/job-api-test-buildkite-plugin
 
-go 1.22
+go 1.22.6
 
 toolchain go1.23.1
 
 require (
-	github.com/buildkite/agent/v3 v3.79.0
+	github.com/buildkite/agent/v3 v3.80.0
 	github.com/kr/pretty v0.3.1
 )
 
 require (
 	cloud.google.com/go/auth v0.9.1 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.4 // indirect
-	cloud.google.com/go/compute v1.27.4 // indirect
+	cloud.google.com/go/compute v1.27.5 // indirect
 	cloud.google.com/go/compute/metadata v0.5.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.13.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0 // indirect
@@ -32,7 +32,7 @@ require (
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/aws/aws-sdk-go v1.55.5 // indirect
 	github.com/brunoscheufler/aws-ecs-metadata-go v0.0.0-20220812150832-b6b31c6eeeaf // indirect
-	github.com/buildkite/go-pipeline v0.12.0 // indirect
+	github.com/buildkite/go-pipeline v0.13.1 // indirect
 	github.com/buildkite/interpolate v0.1.3 // indirect
 	github.com/buildkite/roko v1.2.0 // indirect
 	github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000 // indirect
@@ -73,9 +73,9 @@ require (
 	github.com/lestrrat-go/jwx/v2 v2.1.1 // indirect
 	github.com/lestrrat-go/option v1.0.1 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
-	github.com/mattn/go-zglob v0.0.4 // indirect
+	github.com/mattn/go-zglob v0.0.6 // indirect
 	github.com/nightlyone/lockfile v0.0.0-20180618180623-0ad87eef1443 // indirect
-	github.com/oleiade/reflections v1.0.1 // indirect
+	github.com/oleiade/reflections v1.1.0 // indirect
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/outcaste-io/ristretto v0.2.3 // indirect
 	github.com/pborman/uuid v1.2.1 // indirect
@@ -107,10 +107,10 @@ require (
 	golang.org/x/time v0.6.0 // indirect
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
-	google.golang.org/api v0.194.0 // indirect
+	google.golang.org/api v0.195.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
-	google.golang.org/genproto v0.0.0-20240814211410-ddb44dafa142 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240822170219-fc7c04adadcd // indirect
+	google.golang.org/genproto v0.0.0-20240823204242-4ba0660f739c // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240823204242-4ba0660f739c // indirect
 	google.golang.org/grpc v1.65.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/DataDog/dd-trace-go.v1 v1.67.0 // indirect
