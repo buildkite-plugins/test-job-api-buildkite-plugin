@@ -5,7 +5,7 @@ go 1.22.6
 toolchain go1.23.1
 
 require (
-	github.com/buildkite/agent/v3 v3.82.0
+	github.com/buildkite/agent/v3 v3.82.1
 	github.com/kr/pretty v0.3.1
 )
 
