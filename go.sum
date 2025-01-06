@@ -395,6 +395,8 @@ github.com/buildkite/agent/v3 v3.87.1 h1:GzPbBgxbLF6myUV30dB+4AaMb42H8r518l1d8+z
 github.com/buildkite/agent/v3 v3.87.1/go.mod h1:1MZwXuntikI9NszPxcyRy4zUit7tGFplwDCaa2TYwlE=
 github.com/buildkite/agent/v3 v3.88.0 h1:0/o9gkpWY7AgwU460oVYh47PwtBYk6bswOojopOvKiw=
 github.com/buildkite/agent/v3 v3.88.0/go.mod h1:bGqlBbX3HBAkglb6LRvhWsExrROWtpJ0U6UMTdn/YYc=
+github.com/buildkite/agent/v3 v3.89.0 h1:zlhABMdIeUyiMcwdTtQE8Nv0owMCanXoHHNOqAK6LKM=
+github.com/buildkite/agent/v3 v3.89.0/go.mod h1:JqYCvqkFgu+q6HJ+X1bAJgJ8yNRyWU5PK/RTYcHrIbc=
 github.com/buildkite/bintest/v3 v3.1.1 h1:bS924OU8Ljm46DesONXzxxTBMjbliQRnPB+H4DOeUDE=
 github.com/buildkite/go-pipeline v0.4.1 h1:RZ1afSHOt5mUcTzhFab0WxKm90vvJsOUAPpfQBETgkE=
 github.com/buildkite/go-pipeline v0.4.1/go.mod h1:/8zdWlpn40HsxZql5iUbr00P8/Fm/yud9+Bqrar8S3s=
@@ -975,6 +977,8 @@ golang.org/x/net v0.31.0 h1:68CPQngjLL0r2AlUKiSxtQFKvzRVbnzLwMUn5SzcLHo=
 golang.org/x/net v0.31.0/go.mod h1:P4fl1q7dY2hnZFxEk4pPSkDHF+QqjitcnDjUQyMM+pM=
 golang.org/x/net v0.32.0 h1:ZqPmj8Kzc+Y6e0+skZsuACbx+wzMgo5MQsJh9Qd6aYI=
 golang.org/x/net v0.32.0/go.mod h1:CwU0IoeOlnQQWJ6ioyFrfRuomB8GKF6KbYXZVyeXNfs=
+golang.org/x/net v0.33.0 h1:74SYHlV8BIgHIFC/LrYkOGIwL19eTYXQ5wc6TBuO36I=
+golang.org/x/net v0.33.0/go.mod h1:HXLR5J+9DxmrqMwG9qjGCxZ+zKXxBru04zlTvWlWuN4=
 golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
 golang.org/x/oauth2 v0.6.0 h1:Lh8GPgSKBfWSwFvtuWOfeI3aAAnbXTSutYxJiOJFgIw=
 golang.org/x/oauth2 v0.6.0/go.mod h1:ycmewcwgD4Rpr3eZJLSB4Kyyljb3qDh40vJ8STE5HKw=
