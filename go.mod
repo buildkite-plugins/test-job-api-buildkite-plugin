@@ -2,7 +2,7 @@ module github.com/moskyb/job-api-test-buildkite-plugin
 
 go 1.22.7
 
-toolchain go1.23.4
+toolchain go1.23.5
 
 require (
 	github.com/buildkite/agent/v3 v3.90.0
