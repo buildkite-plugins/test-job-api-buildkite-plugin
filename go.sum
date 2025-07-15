@@ -680,6 +680,8 @@ github.com/buildkite/agent/v3 v3.102.0 h1:1VkZVXZfmpgO6N0RjxiKs1+hBHOn2sRXqnZ3lF
 github.com/buildkite/agent/v3 v3.102.0/go.mod h1:7PZMzECwPdNOtTZGKGV17OdAyKx1kjZf8DG0nm25X4Q=
 github.com/buildkite/agent/v3 v3.102.1 h1:F84htzPXvCuLUyEG5BtPrDBAJKtxffwupkEgQ2UL+RQ=
 github.com/buildkite/agent/v3 v3.102.1/go.mod h1:7PZMzECwPdNOtTZGKGV17OdAyKx1kjZf8DG0nm25X4Q=
+github.com/buildkite/agent/v3 v3.102.2 h1:Bu0RfDyiO6I02Jpzo9G5IBDd5UdPL3yxycur9K0bvFk=
+github.com/buildkite/agent/v3 v3.102.2/go.mod h1:7PZMzECwPdNOtTZGKGV17OdAyKx1kjZf8DG0nm25X4Q=
 github.com/buildkite/bintest/v3 v3.1.1 h1:bS924OU8Ljm46DesONXzxxTBMjbliQRnPB+H4DOeUDE=
 github.com/buildkite/go-pipeline v0.4.1 h1:RZ1afSHOt5mUcTzhFab0WxKm90vvJsOUAPpfQBETgkE=
 github.com/buildkite/go-pipeline v0.4.1/go.mod h1:/8zdWlpn40HsxZql5iUbr00P8/Fm/yud9+Bqrar8S3s=
