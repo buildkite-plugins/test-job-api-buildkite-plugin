@@ -5,7 +5,7 @@ go 1.24.3
 toolchain go1.25.1
 
 require (
-	github.com/buildkite/agent/v3 v3.105.0
+	github.com/buildkite/agent/v3 v3.106.0
 	github.com/kr/pretty v0.3.1
 )
 
@@ -57,7 +57,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sts v1.38.3 // indirect
 	github.com/aws/smithy-go v1.23.0 // indirect
 	github.com/brunoscheufler/aws-ecs-metadata-go v0.0.0-20220812150832-b6b31c6eeeaf // indirect
-	github.com/buildkite/go-pipeline v0.15.0 // indirect
+	github.com/buildkite/go-pipeline v0.16.0 // indirect
 	github.com/buildkite/interpolate v0.1.5 // indirect
 	github.com/buildkite/roko v1.4.0 // indirect
 	github.com/buildkite/shellwords v1.0.0 // indirect
