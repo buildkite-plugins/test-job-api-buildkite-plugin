@@ -5,7 +5,7 @@ go 1.24.3
 toolchain go1.25.1
 
 require (
-	github.com/buildkite/agent/v3 v3.106.0
+	github.com/buildkite/agent/v3 v3.107.0
 	github.com/kr/pretty v0.3.1
 )
 
@@ -60,7 +60,7 @@ require (
 	github.com/buildkite/go-pipeline v0.16.0 // indirect
 	github.com/buildkite/interpolate v0.1.5 // indirect
 	github.com/buildkite/roko v1.4.0 // indirect
-	github.com/buildkite/shellwords v1.0.0 // indirect
+	github.com/buildkite/shellwords v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575 // indirect
 	github.com/creack/pty v1.1.21 // indirect
@@ -163,7 +163,7 @@ require (
 	golang.org/x/crypto v0.42.0 // indirect
 	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0 // indirect
 	golang.org/x/mod v0.27.0 // indirect
-	golang.org/x/net v0.43.0 // indirect
+	golang.org/x/net v0.44.0 // indirect
 	golang.org/x/oauth2 v0.31.0 // indirect
 	golang.org/x/sync v0.17.0 // indirect
 	golang.org/x/sys v0.36.0 // indirect
