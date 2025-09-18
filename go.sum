@@ -849,6 +849,8 @@ github.com/buildkite/agent/v3 v3.105.0 h1:aZImNqqC/X+TbdiiGCHPV+01/EwMy38lNEQamZ
 github.com/buildkite/agent/v3 v3.105.0/go.mod h1:w0VDF1FpO1oFDJiiK9ZIdEGC34oN6I19OY6oqMQVIGw=
 github.com/buildkite/agent/v3 v3.106.0 h1:P1Xg+g//ye3zOZiwUWOCGlDfTwKU+5th49/DajJiybk=
 github.com/buildkite/agent/v3 v3.106.0/go.mod h1:bU1Tg7CVjQX1kUqVIkNKpP9FyZ/0QkMSCDLBhB4a8x4=
+github.com/buildkite/agent/v3 v3.107.0 h1:qZRP5SxlhngI0RpfuIAF7ikZUrx1aZ2FwqWv1Y59Brk=
+github.com/buildkite/agent/v3 v3.107.0/go.mod h1:K/ooiPwl4JvSSyOvI710R9oY8uNHQtKZKqCnxC5fOog=
 github.com/buildkite/bintest/v3 v3.1.1 h1:bS924OU8Ljm46DesONXzxxTBMjbliQRnPB+H4DOeUDE=
 github.com/buildkite/go-pipeline v0.4.1 h1:RZ1afSHOt5mUcTzhFab0WxKm90vvJsOUAPpfQBETgkE=
 github.com/buildkite/go-pipeline v0.4.1/go.mod h1:/8zdWlpn40HsxZql5iUbr00P8/Fm/yud9+Bqrar8S3s=
@@ -893,6 +895,8 @@ github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000 h1:hiVSLk7s3y
 github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000/go.mod h1:gv0DYOzHEsKgo31lTCDGauIg4DTTGn41Bzp+t3wSOlk=
 github.com/buildkite/shellwords v1.0.0 h1:NqZ4Ynp0dar6ACdP5X2RwI8BnNSvuKFf+2StuJl8tjM=
 github.com/buildkite/shellwords v1.0.0/go.mod h1:h/h4NjidF4MJARI+cfAmA/GFChSdroL1GOJXD68s6qU=
+github.com/buildkite/shellwords v1.0.1 h1:88OjMbEBf+EliVB0tizXJynpAM2CKOvYwepg5n8O70M=
+github.com/buildkite/shellwords v1.0.1/go.mod h1:so0eQnTxgbo58CTYX+4BCx5UuMzvRha9dcKdCKl6NV4=
 github.com/cenkalti/backoff/v4 v4.2.0 h1:HN5dHm3WBOgndBH6E8V0q2jIYIR3s9yglV8k/+MN3u4=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
@@ -1670,6 +1674,8 @@ golang.org/x/net v0.42.0 h1:jzkYrhi3YQWD6MLBJcsklgQsoAcw89EcZbJw8Z614hs=
 golang.org/x/net v0.42.0/go.mod h1:FF1RA5d3u7nAYA4z2TkclSCKh68eSXtiFwcWQpPXdt8=
 golang.org/x/net v0.43.0 h1:lat02VYK2j4aLzMzecihNvTlJNQUq316m2Mr9rnM6YE=
 golang.org/x/net v0.43.0/go.mod h1:vhO1fvI4dGsIjh73sWfUVjj3N7CA9WkKJNQm2svM6Jg=
+golang.org/x/net v0.44.0 h1:evd8IRDyfNBMBTTY5XRF1vaZlD+EmWx6x8PkhR04H/I=
+golang.org/x/net v0.44.0/go.mod h1:ECOoLqd5U3Lhyeyo/QDCEVQ4sNgYsqvCZ722XogGieY=
 golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
 golang.org/x/oauth2 v0.6.0 h1:Lh8GPgSKBfWSwFvtuWOfeI3aAAnbXTSutYxJiOJFgIw=
 golang.org/x/oauth2 v0.6.0/go.mod h1:ycmewcwgD4Rpr3eZJLSB4Kyyljb3qDh40vJ8STE5HKw=
