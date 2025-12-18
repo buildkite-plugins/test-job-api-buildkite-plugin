@@ -5,7 +5,7 @@ go 1.24.3
 toolchain go1.25.5
 
 require (
-	github.com/buildkite/agent/v3 v3.115.1
+	github.com/buildkite/agent/v3 v3.115.2
 	github.com/kr/pretty v0.3.1
 )
 
@@ -29,7 +29,7 @@ require (
 	github.com/DataDog/datadog-agent/pkg/util/scrubber v0.67.0 // indirect
 	github.com/DataDog/datadog-agent/pkg/version v0.67.0 // indirect
 	github.com/DataDog/datadog-go v4.8.2+incompatible // indirect
-	github.com/DataDog/datadog-go/v5 v5.8.1 // indirect
+	github.com/DataDog/datadog-go/v5 v5.8.2 // indirect
 	github.com/DataDog/dd-trace-go/v2 v2.3.0 // indirect
 	github.com/DataDog/go-libddwaf/v2 v2.4.2 // indirect
 	github.com/DataDog/go-libddwaf/v3 v3.5.4 // indirect
