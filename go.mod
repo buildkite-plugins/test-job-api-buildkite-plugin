@@ -3,7 +3,7 @@ module github.com/moskyb/job-api-test-buildkite-plugin
 go 1.26.5
 
 require (
-	github.com/buildkite/agent/v3 v3.137.0
+	github.com/buildkite/agent/v3 v3.137.1
 	github.com/kr/pretty v0.3.1
 )
 
@@ -59,7 +59,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.33.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.38.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.45.4 // indirect
-	github.com/aws/smithy-go v1.27.6 // indirect
+	github.com/aws/smithy-go v1.27.7 // indirect
 	github.com/brunoscheufler/aws-ecs-metadata-go v0.0.0-20221221133751-67e37ae746cd // indirect
 	github.com/buildkite/go-pipeline v0.18.0 // indirect
 	github.com/buildkite/interpolate v0.1.5 // indirect
@@ -191,7 +191,7 @@ require (
 	google.golang.org/genproto v0.0.0-20260406210006-6f92a3bedf2d // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260803160001-6ac0973c030d // indirect
 	google.golang.org/grpc v1.83.0 // indirect
-	google.golang.org/protobuf v1.36.11 // indirect
+	google.golang.org/protobuf v1.36.12 // indirect
 	gopkg.in/DataDog/dd-trace-go.v1 v1.74.8 // indirect
 	gopkg.in/ini.v1 v1.67.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
