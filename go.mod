@@ -3,7 +3,7 @@ module github.com/moskyb/job-api-test-buildkite-plugin
 go 1.26.5
 
 require (
-	github.com/buildkite/agent/v3 v3.137.1
+	github.com/buildkite/agent/v3 v3.137.2
 	github.com/kr/pretty v0.3.1
 )
 
