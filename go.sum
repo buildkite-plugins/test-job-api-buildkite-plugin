@@ -382,6 +382,8 @@ github.com/DataDog/datadog-go/v5 v5.8.3 h1:s58CUJ9s8lezjhTNJO/SxkPBv2qZjS3ktpRSq
 github.com/DataDog/datadog-go/v5 v5.8.3/go.mod h1:K9kcYBlxkcPP8tvvjZZKs/m1edNAUFzBbdpTUKfCsuw=
 github.com/DataDog/datadog-go/v5 v5.9.0 h1:0rhs5wBov9Iz+xLXLk4maaReHvOANM1ijSm2IKWtKFs=
 github.com/DataDog/datadog-go/v5 v5.9.0/go.mod h1:2SBt8zJu6r7sRQHZFMQ8oCukWTKj0ymwulmNgQzJ1JM=
+github.com/DataDog/datadog-go/v5 v5.9.1 h1:jOxw/TaxGWok8RIxbpqn2p3RzSnQr/m3Q6TgaHqqOU0=
+github.com/DataDog/datadog-go/v5 v5.9.1/go.mod h1:2SBt8zJu6r7sRQHZFMQ8oCukWTKj0ymwulmNgQzJ1JM=
 github.com/DataDog/dd-trace-go/v2 v2.0.0 h1:cHMEzD0Wcgtu+Rec9d1GuVgpIN5f+4vCaNzuFHJ0v+Y=
 github.com/DataDog/dd-trace-go/v2 v2.0.0/go.mod h1:WBtf7TA9bWr5uA8DjOyw1qlSKe3bw9gN5nc0Ta9dHFE=
 github.com/DataDog/dd-trace-go/v2 v2.0.1 h1:jXKeAtyNss+4RMm7MMKhtja+Soazuu9ZVxubHqqguz8=
@@ -1248,6 +1250,8 @@ github.com/buildkite/agent/v3 v3.137.1 h1:WHuehX6SjLnTP/aRb06n1hl2lG7RxuaAKV/KRI
 github.com/buildkite/agent/v3 v3.137.1/go.mod h1:Rub8U17aPO89E0jhDxw6+utZbxJXdUheopfay6kTbjU=
 github.com/buildkite/agent/v3 v3.137.2 h1:Gbx+Oa2ggfue3crUdsZq2Op5kSffcsS8KDla2+0LGi8=
 github.com/buildkite/agent/v3 v3.137.2/go.mod h1:HfEGE/stq/4jnXK/GEKWxvhNJP/S1X4MOH4ead/Bzvo=
+github.com/buildkite/agent/v3 v3.138.0 h1:rRbL5vUy4HIupZQk9S6BeI1gxaVtLW6PhwjsU5v5oBo=
+github.com/buildkite/agent/v3 v3.138.0/go.mod h1:Tmdcml2U3p/B9foF88JVJrMgOHWyUCCkfUosXMB5MIk=
 github.com/buildkite/agent/v4 v4.0.1/go.mod h1:YVPivDcBeZ82GALOvKCyGEY7Gr7TQtlzlSIeTmWsi+o=
 github.com/buildkite/bintest/v3 v3.1.1 h1:bS924OU8Ljm46DesONXzxxTBMjbliQRnPB+H4DOeUDE=
 github.com/buildkite/go-pipeline v0.4.1 h1:RZ1afSHOt5mUcTzhFab0WxKm90vvJsOUAPpfQBETgkE=

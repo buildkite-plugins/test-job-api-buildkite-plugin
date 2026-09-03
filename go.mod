@@ -3,7 +3,7 @@ module github.com/moskyb/job-api-test-buildkite-plugin
 go 1.26.5
 
 require (
-	github.com/buildkite/agent/v3 v3.137.2
+	github.com/buildkite/agent/v3 v3.138.0
 	github.com/buildkite/agent/v4 v4.0.1
 	github.com/kr/pretty v0.3.1
 )
@@ -34,7 +34,7 @@ require (
 	github.com/DataDog/datadog-agent/pkg/util/scrubber v0.77.2 // indirect
 	github.com/DataDog/datadog-agent/pkg/version v0.77.2 // indirect
 	github.com/DataDog/datadog-go v4.8.2+incompatible // indirect
-	github.com/DataDog/datadog-go/v5 v5.9.0 // indirect
+	github.com/DataDog/datadog-go/v5 v5.9.1 // indirect
 	github.com/DataDog/dd-trace-go/v2 v2.8.1 // indirect
 	github.com/DataDog/go-libddwaf/v2 v2.4.2 // indirect
 	github.com/DataDog/go-libddwaf/v3 v3.5.4 // indirect
