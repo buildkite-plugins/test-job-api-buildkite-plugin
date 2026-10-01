@@ -2,6 +2,8 @@ github.com/buildkite/agent/v4 v4.0.7 h1:4I3inn4uCNCe9w0I6uknATj+ZEzlBm6PJzgyDAGC
 github.com/buildkite/agent/v4 v4.0.7/go.mod h1:SiObDxmgFgvB8TrGzWRszm/VUKdK5q3960ybFq44Srk=
 github.com/buildkite/agent/v4 v4.0.8 h1:rIVDDQYa91ZP/4gshgRckzRV18K5PTXT284g0V6gL6M=
 github.com/buildkite/agent/v4 v4.0.8/go.mod h1:hlNMIaGyozjIGf+H/r49P76Rut8wRTYW1/Kfw8Aiagg=
+github.com/buildkite/agent/v4 v4.1.0 h1:6YqYRyRwyYou5nE92k+oGVoFmy7s6Rh2x6fIyriM6uk=
+github.com/buildkite/agent/v4 v4.1.0/go.mod h1:hlNMIaGyozjIGf+H/r49P76Rut8wRTYW1/Kfw8Aiagg=
 github.com/buildkite/bintest/v3 v3.3.0 h1:RTWcSaJRlOT6t/K311ejPf+0J3LE/QEODzVG3vlLnWo=
 github.com/buildkite/bintest/v3 v3.3.0/go.mod h1:btqpTsVODiJcb0NMdkkmtMQ6xoFc2W/nY5yy+3I0zcs=
 github.com/buildkite/shellwords v1.0.1 h1:88OjMbEBf+EliVB0tizXJynpAM2CKOvYwepg5n8O70M=
