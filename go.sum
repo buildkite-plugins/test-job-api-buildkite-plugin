@@ -10,6 +10,8 @@ github.com/buildkite/agent/v4 v4.5.0 h1:7+5yqvpq+jpdJ7Wp82/qizIZeUJZkXYFUjgtnlbv
 github.com/buildkite/agent/v4 v4.5.0/go.mod h1:hlNMIaGyozjIGf+H/r49P76Rut8wRTYW1/Kfw8Aiagg=
 github.com/buildkite/agent/v4 v4.8.0 h1:/MxcIR7FQ23/ZWUyvfnVNdRXvHTA+yvlIOc2qtS6AY4=
 github.com/buildkite/agent/v4 v4.8.0/go.mod h1:PbhDf1LENC01Wj+Zbv5/kpRKyrUaWDX/j+dUPBQtCK0=
+github.com/buildkite/agent/v4 v4.8.1 h1:f9xz0E//OjgkT70jc2IVnMCDkIxbwebgsePocaAsVbM=
+github.com/buildkite/agent/v4 v4.8.1/go.mod h1:PbhDf1LENC01Wj+Zbv5/kpRKyrUaWDX/j+dUPBQtCK0=
 github.com/buildkite/bintest/v3 v3.3.0 h1:RTWcSaJRlOT6t/K311ejPf+0J3LE/QEODzVG3vlLnWo=
 github.com/buildkite/bintest/v3 v3.3.0/go.mod h1:btqpTsVODiJcb0NMdkkmtMQ6xoFc2W/nY5yy+3I0zcs=
 github.com/buildkite/shellwords v1.0.1 h1:88OjMbEBf+EliVB0tizXJynpAM2CKOvYwepg5n8O70M=
