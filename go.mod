@@ -3,11 +3,12 @@ module github.com/moskyb/job-api-test-buildkite-plugin
 go 1.27.3
 
 require (
-	github.com/buildkite/agent/v4 v4.8.1
+	github.com/buildkite/agent/v4 v4.10.1
 	github.com/kr/pretty v0.3.1
 )
 
 require (
+	github.com/buildkite/osc7501 v0.3.0 // indirect
 	github.com/buildkite/shellwords v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/creack/pty v1.1.24 // indirect
