@@ -12,8 +12,12 @@ github.com/buildkite/agent/v4 v4.8.0 h1:/MxcIR7FQ23/ZWUyvfnVNdRXvHTA+yvlIOc2qtS6
 github.com/buildkite/agent/v4 v4.8.0/go.mod h1:PbhDf1LENC01Wj+Zbv5/kpRKyrUaWDX/j+dUPBQtCK0=
 github.com/buildkite/agent/v4 v4.8.1 h1:f9xz0E//OjgkT70jc2IVnMCDkIxbwebgsePocaAsVbM=
 github.com/buildkite/agent/v4 v4.8.1/go.mod h1:PbhDf1LENC01Wj+Zbv5/kpRKyrUaWDX/j+dUPBQtCK0=
+github.com/buildkite/agent/v4 v4.10.2 h1:4TwBW/Qqbxx9OOQ2eCWtS3NP6iDnekLQ9dsGugY73Rg=
+github.com/buildkite/agent/v4 v4.10.2/go.mod h1:mK+FOY6V2u146YVsRmASA/acB/qSMotxD7DAkIOFnJE=
 github.com/buildkite/bintest/v3 v3.3.0 h1:RTWcSaJRlOT6t/K311ejPf+0J3LE/QEODzVG3vlLnWo=
 github.com/buildkite/bintest/v3 v3.3.0/go.mod h1:btqpTsVODiJcb0NMdkkmtMQ6xoFc2W/nY5yy+3I0zcs=
+github.com/buildkite/osc7501 v0.3.1 h1:T+uuSCkiQgH39D+d0uL7k305jYkO7/iW8Iph83s2QB4=
+github.com/buildkite/osc7501 v0.3.1/go.mod h1:bGsSNyYS5ECgws+5M7bNhm+fH1EdoUJ2uRFRoNNBwFA=
 github.com/buildkite/shellwords v1.0.1 h1:88OjMbEBf+EliVB0tizXJynpAM2CKOvYwepg5n8O70M=
 github.com/buildkite/shellwords v1.0.1/go.mod h1:so0eQnTxgbo58CTYX+4BCx5UuMzvRha9dcKdCKl6NV4=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
