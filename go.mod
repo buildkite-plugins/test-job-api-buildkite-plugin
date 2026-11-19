@@ -3,12 +3,12 @@ module github.com/moskyb/job-api-test-buildkite-plugin
 go 1.27.3
 
 require (
-	github.com/buildkite/agent/v4 v4.10.2
+	github.com/buildkite/agent/v4 v4.12.0
 	github.com/kr/pretty v0.3.1
 )
 
 require (
-	github.com/buildkite/osc7501 v0.3.1 // indirect
+	github.com/buildkite/osc7501 v0.4.0 // indirect
 	github.com/buildkite/shellwords v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/creack/pty v1.1.24 // indirect
@@ -25,6 +25,6 @@ require (
 	go.opentelemetry.io/otel/log v1.47.0 // indirect
 	go.opentelemetry.io/otel/metric v1.47.0 // indirect
 	go.opentelemetry.io/otel/trace v1.47.0 // indirect
-	golang.org/x/sys v0.49.0 // indirect
-	golang.org/x/term v0.47.0 // indirect
+	golang.org/x/sys v0.50.0 // indirect
+	golang.org/x/term v0.48.0 // indirect
 )
