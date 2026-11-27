@@ -16,6 +16,8 @@ github.com/buildkite/agent/v4 v4.10.2 h1:4TwBW/Qqbxx9OOQ2eCWtS3NP6iDnekLQ9dsGugY
 github.com/buildkite/agent/v4 v4.10.2/go.mod h1:mK+FOY6V2u146YVsRmASA/acB/qSMotxD7DAkIOFnJE=
 github.com/buildkite/agent/v4 v4.12.0 h1:buIk60hbNRBUECNuH4k4Bab/OKPngQBi9K8qJecz9RE=
 github.com/buildkite/agent/v4 v4.12.0/go.mod h1:367199k27koh8w69+6LSqP1AUWAyYHTd//Szb9X7xLw=
+github.com/buildkite/agent/v4 v4.13.0 h1:7HhFbdoMBSuYEdrYBh/H96kJdYmEdN9obvh8sjR06Yg=
+github.com/buildkite/agent/v4 v4.13.0/go.mod h1:C5kMZsvMfqjP3fzOJutkOniQFWwQWLkGkgfHAeoUSRY=
 github.com/buildkite/bintest/v3 v3.3.0 h1:RTWcSaJRlOT6t/K311ejPf+0J3LE/QEODzVG3vlLnWo=
 github.com/buildkite/bintest/v3 v3.3.0/go.mod h1:btqpTsVODiJcb0NMdkkmtMQ6xoFc2W/nY5yy+3I0zcs=
 github.com/buildkite/osc7501 v0.3.1 h1:T+uuSCkiQgH39D+d0uL7k305jYkO7/iW8Iph83s2QB4=
@@ -40,6 +42,8 @@ github.com/go-logr/stdr v1.2.2 h1:hSWxHoqTgW2S2qGc0LTAI563KZ5YKYRhT3MFKZMbjag=
 github.com/go-logr/stdr v1.2.2/go.mod h1:mMo/vtBO5dYbehREoey6XUKy/eSumjCCveDpRre4VKE=
 github.com/gofrs/flock v0.13.1 h1:jjREztyBeSKBZYAC+mgc1laB+xsgy4kYMf3FbKF2UBo=
 github.com/gofrs/flock v0.13.1/go.mod h1:sf4BFiHwnvgxa25DlQoDqXQnwRMEOwqxRq37P6MzzmE=
+github.com/gofrs/flock v0.13.2 h1:9o62TArG4T0f8L46kSf8sLtNUGvJEfiCK9md7/ilko0=
+github.com/gofrs/flock v0.13.2/go.mod h1:OEjpF6MC2Plt1fLXTTgXwnZohWbs/Alxf2i1qTne/Vg=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
 github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
