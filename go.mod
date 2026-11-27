@@ -3,7 +3,7 @@ module github.com/moskyb/job-api-test-buildkite-plugin
 go 1.27.3
 
 require (
-	github.com/buildkite/agent/v4 v4.12.0
+	github.com/buildkite/agent/v4 v4.13.0
 	github.com/kr/pretty v0.3.1
 )
 
@@ -15,7 +15,7 @@ require (
 	github.com/go-chi/chi/v5 v5.5.0 // indirect
 	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/gofrs/flock v0.13.1 // indirect
+	github.com/gofrs/flock v0.13.2 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/puzpuzpuz/xsync/v2 v2.5.1 // indirect
 	github.com/rogpeppe/go-internal v1.14.1 // indirect
